@@ -8,3 +8,5 @@ Then you can insert the script.js file into your project, do not forget about th
 
 ## Usage
 Set date in the script.js file to which the timer will count
+
+### Enjoy
